@@ -31,6 +31,7 @@ Stelle aber sicher, dass deine Lok die richtige ID, wenn du diese Klasse aufrufs
 
 # Netzwerkspezifikation_2023.pdf // Stand Juli 2023
 
-[Eine noch unvollständige Dokumentation]([url](https://github.com/TabalugaDrache/TCPEcos/blob/9ec2f93a858db12ac14ed0fec42ff09aa5f16a7c/Netzwerkspezifikation_2023.pdf))Eine noch unvollständige Dokumentation, welche ich aus der offiziellen Dokumentation von 2011 und der übersetzten Dokumentation auf der Station zusammengetragen haben.
+[Eine noch unvollständige Dokumentation](https://github.com/TabalugaDrache/TCPEcos/blob/9ec2f93a858db12ac14ed0fec42ff09aa5f16a7c/Netzwerkspezifikation_2023.pdf) , welche ich aus der offiziellen Dokumentation von 2011 und der übersetzten Dokumentation auf der Station zusammengetragen haben.
 Es sind noch nicht alle Befehle und Objekte dokumentiert, sie gibt aber schon einmal einen guten Überblick. 
+
 _Seit dem Juli ist bereits ein neuer Patch für die ECoS erschienen, dieser ist noch nicht dokumentiert._
