@@ -1,6 +1,6 @@
 # TCPEcos
 
-TCP Ecos ist eine Konsolenapplikation zum direkten Ansteuerung der ESU ECoS 50210 Zentrale über die PC Schnittstelle.
+TCP Ecos ist eine Konsolenapplikation zum direkten Ansteuerung der ESU [ECoS 50210 Zentrale](https://www.esu.eu/produkte/digitale-steuerung/ecos-50210-zentrale/was-ecos-kann/) über die PC Schnittstelle.
 
 **Dies ist kein offizielles Produkt von ESU, sondern eine Communityversion**
 
