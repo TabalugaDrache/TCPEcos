@@ -1,6 +1,8 @@
 # TCPEcos
 
 TCP Ecos ist eine Konsolenapplikation zum direkten Ansteuerung der ESU Ecos Zentrale über die PC Schnittstelle.
+Eine unvollständige Dokumentation über die Schnittstelle: [Netzwerkspezifikation_2023.pdf](https://github.com/TabalugaDrache/TCPEcos/files/13458970/Netzwerkspezifikation_2023.pdf)
+Sie ist eine Kombination aus der offiziellen Doku von 2011 und der übsersetzten Doku, welche auf der ECoS selber zu finden ist.
 
 # Programm.cs
 
