@@ -1,8 +1,6 @@
 # TCPEcos
 
 TCP Ecos ist eine Konsolenapplikation zum direkten Ansteuerung der ESU Ecos Zentrale über die PC Schnittstelle.
-Eine unvollständige Dokumentation über die Schnittstelle: [Netzwerkspezifikation_2023.pdf](https://github.com/TabalugaDrache/TCPEcos/files/13458970/Netzwerkspezifikation_2023.pdf)
-Sie ist eine Kombination aus der offiziellen Doku von 2011 und der übsersetzten Doku, welche auf der ECoS selber zu finden ist.
 
 # Programm.cs
 
@@ -30,3 +28,9 @@ und anschliessend nach einem Timer nach und nach verringert, bis die Stufe wiede
 Anschliessend werden alle Funktionen wieder ausgeschaltet.
 Das LokBeispiel.cs wird nicht vom Programm angesteuert, du kannst es aber einfach einfügen und so ausprobieren.
 Stelle aber sicher, dass deine Lok die richtige ID, wenn du diese Klasse aufrufst!
+
+# Netzwerkspezifikation_2023.pdf // Stand Juli 2023
+
+[Eine noch unvollständige Dokumentation]([url](https://github.com/TabalugaDrache/TCPEcos/blob/9ec2f93a858db12ac14ed0fec42ff09aa5f16a7c/Netzwerkspezifikation_2023.pdf))Eine noch unvollständige Dokumentation, welche ich aus der offiziellen Dokumentation von 2011 und der übersetzten Dokumentation auf der Station zusammengetragen haben.
+Es sind noch nicht alle Befehle und Objekte dokumentiert, sie gibt aber schon einmal einen guten Überblick. 
+_Seit dem Juli ist bereits ein neuer Patch für die ECoS erschienen, dieser ist noch nicht dokumentiert._
