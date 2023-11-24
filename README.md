@@ -2,7 +2,7 @@
 
 TCP Ecos ist eine Konsolenapplikation zum direkten Ansteuerung der ESU Ecos Zentrale über die PC Schnittstelle.
 
-**Dies ist kein offizielle Produkt von ESU, sondern eine Communityversion**
+**Dies ist kein offizielles Produkt von ESU, sondern eine Communityversion**
 
 # Programm.cs
 
